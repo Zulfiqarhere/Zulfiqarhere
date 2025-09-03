@@ -1,4 +1,4 @@
-_- 👋 Hi, I’m @Zulfiqarhere
+_- 👋 Hi, I’m @Zulfiqarhere. I dont normally publish my code because I work in a closed source industry. But dont be mislead by my few pushes.
 - 👀 I’m interested in Embedded intelligence, Machine Vision
 - 🌱 I’m currently learning ...Ultralytics libraries in Python, Machine Vision training, Large Language Models integration, Blockchain Cybersecurity
 - 💞️ I’m looking to collaborate on ...international projects
